@@ -6,11 +6,11 @@ This repository contains the Colab-compatible implementations of three prominent
 
 ## 📄 Papers & Implementations
 
-| Paper Title                                                                                         | Key Concepts                                                  |
-|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| **1. Adversarial Training Methods for Semi-Supervised Text Classification**                         | Virtual Adversarial Training, Semi-Supervised Learning        |
-| **2. Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function**| LSTM, Cross Entropy + Entropy Regularization, Text Embedding |
-| **3. Advancing Sentiment Analysis of IMDB Movie Reviews with a Hybrid Naive Bayes and LSTM Approach**| Naive Bayes + LSTM, Sentiment Classification, Hybrid Models  |
+| Paper Title                                                                                         | Key Concepts                                                  | Link |
+|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---|
+| **1. Adversarial Training Methods for Semi-Supervised Text Classification**                         | Virtual Adversarial Training, Semi-Supervised Learning        | [Colab](https://colab.research.google.com/drive/1eZLPjSda1ujVfYsVTyo2uxR4AymdyAzv?usp=sharing) |
+| **2. Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function**| LSTM, Cross Entropy + Entropy Regularization, Text Embedding | [Colab](https://colab.research.google.com/drive/1lAiESaxF4siCpikVXu2RAnXxAK6-TVoh?usp=sharing) |
+| **3. Advancing Sentiment Analysis of IMDB Movie Reviews with a Hybrid Naive Bayes and LSTM Approach**| Naive Bayes + LSTM, Sentiment Classification, Hybrid Models  | [Colab](https://colab.research.google.com/drive/1t-7nc1XRNp57iZHrcIkIwVn0MUrqdjWq?usp=sharing) |
 
 ## 🔧 How to Run
 
