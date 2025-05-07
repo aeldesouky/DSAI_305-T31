@@ -6,17 +6,17 @@ This repository contains the Colab-compatible implementations of three prominent
 
 ## 📄 Papers & Implementations
 
-| Paper Title                                                                                         | Key Concepts                                                  | Link |
+| Paper Title                                                                                         | accurancy                                                  | Link |
 |-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------|---|
-| **1. Adversarial Training Methods for Semi-Supervised Text Classification**                         | Virtual Adversarial Training, Semi-Supervised Learning        | [Colab](https://colab.research.google.com/drive/1eZLPjSda1ujVfYsVTyo2uxR4AymdyAzv?usp=sharing) |
-| **2. Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function**| LSTM, Cross Entropy + Entropy Regularization, Text Embedding | [Colab](https://colab.research.google.com/drive/1lAiESaxF4siCpikVXu2RAnXxAK6-TVoh?usp=sharing) |
-| **3. Advancing Sentiment Analysis of IMDB Movie Reviews with a Hybrid Naive Bayes and LSTM Approach**| Naive Bayes + LSTM, Sentiment Classification, Hybrid Models  | [Colab](https://colab.research.google.com/drive/1t-7nc1XRNp57iZHrcIkIwVn0MUrqdjWq?usp=sharing) |
-| **4. Towards a Seamless Integration of Word Senses into Downstream NLP Applications**| TBD | [Colab](https://colab.research.google.com/drive/1WJ1phfe0OrivlGI1DEKfPMOyxyec1hAR?usp=sharing) |
-| **5. Recurrent Residual Learning for Sequence Classification**| TBD  | [Colab](https://colab.research.google.com/drive/1lV5D07UYc4JoBM8QBUjMaApP4xT1oYvh?usp=sharing) |
-| **6. Semi-supervised Sequence Learning**| TBD  | [Colab](https://colab.research.google.com/drive/1En1T4jZ74Iz6ssKrQbUVfYymIGolZ8Wf?usp=sharing) |
-| **7. Long-Short Transformer: Effficient Transformers for Language and Vision**| TBD  | [Colab](https://colab.research.google.com/drive/1LadMVPuWnBz3-suXomUmTiTc4GoPBaeQ?usp=sharing) |
-| **8. Certified Robustness to Programmable Transformations in LSTMs**| TBD  | [Colab](https://colab.research.google.com/drive/1M_OeFti28bQsEdpqueXUfmENJpu0Xkvy?usp=sharing) |
-| **9. Sparse Sinkhorn Attention**| TBD  | [Colab](https://colab.research.google.com/drive/1eONh7SISwNoY18V1HihPYZ5jDDE6Qm4S?usp=sharing) |
+| **1. Adversarial Training Methods for Semi-Supervised Text Classification**                         |86%     | [Colab](https://colab.research.google.com/drive/1eZLPjSda1ujVfYsVTyo2uxR4AymdyAzv?usp=sharing) |
+| **2. Revisiting LSTM Networks for Semi-Supervised Text Classification via Mixed Objective Function**| 84% | [Colab](https://colab.research.google.com/drive/1lAiESaxF4siCpikVXu2RAnXxAK6-TVoh?usp=sharing) |
+| **3. Advancing Sentiment Analysis of IMDB Movie Reviews with a Hybrid Naive Bayes and LSTM Approach**| 84%  | [Colab](https://colab.research.google.com/drive/1t-7nc1XRNp57iZHrcIkIwVn0MUrqdjWq?usp=sharing) |
+| **4. Towards a Seamless Integration of Word Senses into Downstream NLP Applications**| 52% | [Colab](https://colab.research.google.com/drive/1WJ1phfe0OrivlGI1DEKfPMOyxyec1hAR?usp=sharing) |
+| **5. Recurrent Residual Learning for Sequence Classification**| 84%  | [Colab](https://colab.research.google.com/drive/1lV5D07UYc4JoBM8QBUjMaApP4xT1oYvh?usp=sharing) |
+| **6. Semi-supervised Sequence Learning**| 85%  | [Colab](https://colab.research.google.com/drive/1En1T4jZ74Iz6ssKrQbUVfYymIGolZ8Wf?usp=sharing) |
+| **7. Long-Short Transformer: Effficient Transformers for Language and Vision**| 83.9%  | [Colab](https://colab.research.google.com/drive/1LadMVPuWnBz3-suXomUmTiTc4GoPBaeQ?usp=sharing) |
+| **8. Certified Robustness to Programmable Transformations in LSTMs**| 80%  | [Colab](https://colab.research.google.com/drive/1M_OeFti28bQsEdpqueXUfmENJpu0Xkvy?usp=sharing) |
+| **9. Sparse Sinkhorn Attention**| 79%  | [Colab](https://colab.research.google.com/drive/1eONh7SISwNoY18V1HihPYZ5jDDE6Qm4S?usp=sharing) |
 
 ## 🔧 How to Run
 
